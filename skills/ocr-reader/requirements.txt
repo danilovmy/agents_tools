@@ -1,6 +1,6 @@
 python-doctr
 Pillow
-docuwarp[cpu]
+docuwarp==1.0.2
 numpy>=2
 onnxruntime>=1.19
 bbox-align

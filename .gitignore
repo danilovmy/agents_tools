@@ -222,3 +222,21 @@ __marimo__/
 .zencoder
 .clode
 
+# OCR runtime data; retain the directory documentation.
+/skills/ocr-reader/data/archive/*
+!/skills/ocr-reader/data/archive/readme.md
+/skills/ocr-reader-xiaomi/data/archive/*
+!/skills/ocr-reader-xiaomi/data/archive/readme.md
+
+/skills/ocr-reader/.cache/*
+!/skills/ocr-reader/.cache/doctr/
+/skills/ocr-reader/.cache/doctr/*
+!/skills/ocr-reader/.cache/doctr/models/
+/skills/ocr-reader/.cache/doctr/models/*
+!/skills/ocr-reader/.cache/doctr/models/README.md
+
+/skills/ocr-reader-xiaomi/.cache/*
+!/skills/ocr-reader-xiaomi/.cache/model/
+/skills/ocr-reader-xiaomi/.cache/model/*
+!/skills/ocr-reader-xiaomi/.cache/model/README.md
+
