@@ -1,0 +1,5 @@
+# Local model / Локальная модель
+
+This directory can hold a local copy of [Xiaomi-OCR-0](https://huggingface.co/xiaomi-research/Xiaomi-OCR-0) in the original Transformers format, including its Safetensors weights, processor and tokenizer files. Set `XIAOMI_OCR_MODEL_PATH=./.cache/model` in the skill's `.env` to use it. Alternatively, set `XIAOMI_OCR_MODEL_PATH=xiaomi-research/Xiaomi-OCR-0` to load the model by its Hugging Face ID; Transformers manages that download in its own cache. Do not commit model weights or other downloaded model files to this repository.
+
+В этой папке можно хранить локальную копию [Xiaomi-OCR-0](https://huggingface.co/xiaomi-research/Xiaomi-OCR-0) в исходном формате Transformers, включая веса Safetensors, файлы процессора и токенизатора. Чтобы использовать её, задайте `XIAOMI_OCR_MODEL_PATH=./.cache/model` в `.env` скилла. В качестве альтернативы укажите `XIAOMI_OCR_MODEL_PATH=xiaomi-research/Xiaomi-OCR-0`: Transformers загрузит модель по ID и сохранит её в собственном кэше. Не добавляйте веса и другие загруженные файлы модели в репозиторий.

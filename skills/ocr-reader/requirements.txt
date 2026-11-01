@@ -1,0 +1,7 @@
+python-doctr
+Pillow
+docuwarp[cpu]
+numpy>=2
+onnxruntime>=1.19
+bbox-align
+python-dotenv

@@ -1,0 +1,25 @@
+2026-08-18 15:57:31,161: start parse \media\inbound\368c4947-11c8-4b17-ad43-39a29c47c8b1.jpg
+2026-08-18 15:57:31,161: processing \media\inbound\368c4947-11c8-4b17-ad43-39a29c47c8b1.jpg
+2026-08-18 15:57:31,162: processing full filename \media\inbound\368c4947-11c8-4b17-ad43-39a29c47c8b1.jpg
+2026-08-18 15:57:31,163: before callback send
+2026-08-18 15:58:39,326: callback sended [ocr-start] file: 368c4947-11c8-4b17-ad43-39a29c47c8b1.jpg
+2026-08-18 15:58:39,329: process_file \media\archive\bills\368c4947-11c8-4b17-ad43-39a29c47c8b1.jpg
+2026-08-18 15:58:39,329: before unwarp \media\archive\bills\368c4947-11c8-4b17-ad43-39a29c47c8b1.jpg
+2026-08-18 15:58:40,152: unwarped \media\archive\bills\368c4947-11c8-4b17-ad43-39a29c47c8b1.jpg save
+2026-08-18 15:58:40,171: Doctr doc created
+2026-08-18 15:58:58,974: Doctr doc predicted
+2026-08-18 15:58:58,974: predictions ready to align
+2026-08-18 15:58:58,975: align worlds
+2026-08-18 15:58:59,405: worlds aligned
+2026-08-18 15:58:59,407: before callback send
+2026-08-18 16:00:23,521: callback sended [ocr-done] file: 368c4947-11c8-4b17-ad43-39a29c47c8b1.jpg
+2026-08-18 16:00:23,522: stop
+2026-08-31 00:19:50,308: Doctr doc created
+2026-08-31 00:19:58,479: OCR model loaded
+2026-08-31 00:20:11,632: Doctr doc predicted
+2026-08-31 00:20:11,634: predictions ready to align
+2026-08-31 00:20:11,635: align worlds
+2026-08-31 00:20:11,710: worlds aligned
+2026-08-31 00:20:11,734: stop
+2026-09-14 08:00:39,505: Geometry error [(1.0, 0.9013671875), (1.0, 0.9013671875), (1.0, 0.9091796875), (1.0, 0.9091796875)]
+2026-11-01 12:57:04,383: Geometry error [[0, 0], [0, 1], [0, 1], [0, 0]]

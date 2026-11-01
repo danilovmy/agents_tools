@@ -1,0 +1,4 @@
+2026-11-01 13:53:56,640: Loading Xiaomi OCR model org/model on cpu
+2026-11-01 13:53:56,643: Recognized \sample.jpg
+2026-11-01 13:53:56,644: Saved transcript: \sample.txt
+2026-11-01 13:53:58,617: Processing \sample.jpg
